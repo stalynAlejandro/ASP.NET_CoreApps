@@ -2,7 +2,7 @@
 Building modular, multi-tenant ASP.NET Core Apps with Orchard Core framework
 
 # Modular Applications
-Why you would build modular applications? 
+Why would you build modular applications? 
 
 #### 1. You work with multiple teams and each team wants to own a different section of the application. So you can split the work and each project its own by each team.
 - Work in isolation
